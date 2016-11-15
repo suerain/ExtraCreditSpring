@@ -1,0 +1,9 @@
+spring\extracredit\domain\Project.class
+spring\extracredit\domain\Resource.class
+spring\extracredit\service\ProjectService.class
+spring\extracredit\controller\ProjectController.class
+spring\extracredit\domain\Task.class
+spring\extracredit\domain\Volunteer.class
+spring\extracredit\DAO\IProjectDAO.class
+spring\extracredit\domain\Status.class
+spring\extracredit\domain\Beneficiary.class
